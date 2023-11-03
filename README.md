@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Goals
+- Obtain AWS CCP certification 
+
 ### Technology
 - Node.js
 - Express
