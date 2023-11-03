@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages
+### Technology
 - Node.js
+- Express
+- AWS
