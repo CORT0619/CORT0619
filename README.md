@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Goals
-- Obtain AWS CCP certification 
+- Obtain AWS Developer certification 
 
 ### Technology
 - Node.js
